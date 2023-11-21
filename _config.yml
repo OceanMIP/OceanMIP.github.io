@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ocean Model Intercomparison Project for CMIP7
+title: Ocean Model Intercomparison Project
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  "Ocean Model Intercomparison Project for CMIP7" is the third instantiation of OMIP which aims to understand
+  The Ocean Model Intercomparison Project is the third instantiation of OMIP which aims to understand
   how different numerical ocean models function for climate.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "OceanMIP.github.io" # the base hostname & protocol for your site, e.g. http://example.com
