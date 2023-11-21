@@ -3,6 +3,6 @@ layout: home
 list_title: " "
 ---
 
-OMIP is not yet endorsed
+Note: OMIP is not yet endorsed by CMIP7 but we have applied.
 
 
